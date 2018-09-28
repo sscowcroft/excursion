@@ -13,7 +13,7 @@ h2{
 h3 {
   color:aquamarine;
   font-size:16x;
-  font-style: underline;
+  text-decoration: underline;
 }
 
 p{
